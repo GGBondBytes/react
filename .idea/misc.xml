@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/App.css" />
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/App.test.js" />
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/index.css" />
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/logo.svg" />
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/reportWebVitals.js" />
+    <file url="file://$PROJECT_DIR$/01_脚手架自带文件/src/setupTests.js" />
+  </component>
+</project>
